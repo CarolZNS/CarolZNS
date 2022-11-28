@@ -11,7 +11,7 @@
 
 I am a law graduate who decided to change careers and I am trying to better and polish my coding skills. Recently graduated from a Full-stack course, currently working on my front-end skills.
 
-There are a few repos that were jsut test or assignments, I am still cleaning up my github and messing around with projects.
+There are a few repos that were just test or assignments, I am still cleaning up my github and messing around with projects.
 I am a bit of a gaming and language nerd. Way too much into astrology and random topics.
 
 Artist on free time.
